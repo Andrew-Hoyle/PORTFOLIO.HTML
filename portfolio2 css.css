@@ -1,0 +1,33 @@
+@charset "utf-8";
+li:link { color: #00f; }
+li:visited { color: rgb(87, 0, 168); }
+li:hover { color: #06f; }
+li:active { color: #0cf; }
+li {display: inline; }
+
+
+li {display: inline; }
+label {display: inline; }
+
+ul { font-size: 1.25em;}
+
+h1, h2, li {
+    text-align: center;
+    border-style: ridge;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    h1 { font-size: 2em;}
+    h1.solid {border-style: solid;}
+    h2 { font-size: 1.5em; }
+
+html, body, p, th, td, li, dd, dt {
+        font: 1em Arial, Helvetica, sans-serif;
+        }
+p {
+    text-align: center;
+}
+div {
+    text-align: center;
+    border-style: ridge;
+
+}
